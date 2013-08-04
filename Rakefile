@@ -10,7 +10,7 @@ Motion::Project::App.setup do |app|
   # Use `rake config' to see complete project settings.
   app.name = 'BlocksKitFail'
 
-  app.pods do
-    pod 'BlocksKit'
-  end
+  #app.pods do
+    #pod 'BlocksKit'
+  #end
 end
